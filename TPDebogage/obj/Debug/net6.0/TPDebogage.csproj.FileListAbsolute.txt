@@ -1,0 +1,15 @@
+D:\csharp projects\TPDebogage\TPDebogage\bin\Debug\net6.0\TPDebogage.exe
+D:\csharp projects\TPDebogage\TPDebogage\bin\Debug\net6.0\TPDebogage.deps.json
+D:\csharp projects\TPDebogage\TPDebogage\bin\Debug\net6.0\TPDebogage.runtimeconfig.json
+D:\csharp projects\TPDebogage\TPDebogage\bin\Debug\net6.0\TPDebogage.dll
+D:\csharp projects\TPDebogage\TPDebogage\bin\Debug\net6.0\TPDebogage.pdb
+D:\csharp projects\TPDebogage\TPDebogage\obj\Debug\net6.0\TPDebogage.csproj.AssemblyReference.cache
+D:\csharp projects\TPDebogage\TPDebogage\obj\Debug\net6.0\TPDebogage.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp projects\TPDebogage\TPDebogage\obj\Debug\net6.0\TPDebogage.AssemblyInfoInputs.cache
+D:\csharp projects\TPDebogage\TPDebogage\obj\Debug\net6.0\TPDebogage.AssemblyInfo.cs
+D:\csharp projects\TPDebogage\TPDebogage\obj\Debug\net6.0\TPDebogage.csproj.CoreCompileInputs.cache
+D:\csharp projects\TPDebogage\TPDebogage\obj\Debug\net6.0\TPDebogage.dll
+D:\csharp projects\TPDebogage\TPDebogage\obj\Debug\net6.0\refint\TPDebogage.dll
+D:\csharp projects\TPDebogage\TPDebogage\obj\Debug\net6.0\TPDebogage.pdb
+D:\csharp projects\TPDebogage\TPDebogage\obj\Debug\net6.0\TPDebogage.genruntimeconfig.cache
+D:\csharp projects\TPDebogage\TPDebogage\obj\Debug\net6.0\ref\TPDebogage.dll
